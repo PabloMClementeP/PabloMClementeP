@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Pablo Clemente
 
- - I'm developer from Uruguay, who is mainly interested in web technologies, specially in frontend development.
+ - I'm developer from Uruguay, i'm mainly interested in web technologies, specially in frontend development.
  - I develop my projects using **HTML**, **CSS**, **Javascript** and **React**.
 
 ## Contact
